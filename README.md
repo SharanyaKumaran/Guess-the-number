@@ -25,5 +25,5 @@ This project is licensed under the MIT License.
 
 Author
 Sharanya Kumaran 
-https://github.com/SharanyaKumaran/guess-the-number-game.git
+[https://github.com/SharanyaKumaran/guess-the-number-game.git](https://github.com/SharanyaKumaran/Guess-the-number)
 
